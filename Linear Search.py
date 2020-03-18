@@ -8,3 +8,16 @@ for i in range(a):
           print(c.index(se)+1)
         else:
           print(-1)
+
+
+
+ Input :
+2 
+5 16
+9 7 2 16 4
+7 98
+1 22 57 47 34 18 66
+
+Output : 
+4
+-1
