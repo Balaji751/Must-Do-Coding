@@ -8,3 +8,17 @@ for i in range(int(input())):
             max=arr[i]
             c+=1
     print(c)
+
+
+
+
+    Input:
+2
+5
+7 4 8 2 9
+4
+2 3 4 5
+
+Output:
+3
+4
